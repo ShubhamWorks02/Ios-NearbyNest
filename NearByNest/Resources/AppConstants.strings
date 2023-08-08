@@ -1,0 +1,9 @@
+/* 
+  AppConstants.strings
+  NearByNest
+
+  Created by Shubham Bhatt on 07/08/23.
+  
+*/
+
+"serverBaseUrl" = "https://reqres.in/api/";
